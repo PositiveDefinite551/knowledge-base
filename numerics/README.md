@@ -1,5 +1,6 @@
+# Numerics
 Small code snippets for solving numerical problems and exploring tools for math-related programming.
-All the snippets solve their own problem and are unconnected to each other:
+Each of the snippets solves a separate problem and is in general unconnected to the rest:
 
 `cholesky_decomposition.py` : Given a positive definite $n\times n$ matrix $A$, in $\frac{n^3}{3}(1+O(1/n))$ steps returns a n*n lower triangular matrix $L$, such that $LL^t=A$.
 

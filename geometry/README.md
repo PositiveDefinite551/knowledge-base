@@ -1,6 +1,6 @@
 # Geometry
 Small code snippets for visualising geometrical concepts.
-All of the snippets solve their own problem and are unconnected to each other:
+Each of the snippets solves a separate problem and is in general unconnected to the rest:
 
 `geometry_of_parabola.py`: Plots a parabola with its focus. The goal is to visualize the geometric interpretation of a parabola.
 
